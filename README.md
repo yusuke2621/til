@@ -1,2 +1,2 @@
 # til(Today I Learned)
-練習その2
+毎日の学習成果を書きます
